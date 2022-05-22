@@ -8,5 +8,8 @@ this is the gh organization for the [norns zine](https://llllllll.co/t/introduci
 
 see also the [gdrive folder](https://drive.google.com/drive/folders/1VUSCU2_xFyerSOu2nUiAgVOsJH6s3q00?usp=sharing).
 
-- [general outline](https://docs.google.com/spreadsheets/d/1e8aYEAT9z_0v7KeJPcVQkbOgCSpuJrnUnd_0Gd4p53I/edit#gid=0)
-- [folkpower](https://docs.google.com/spreadsheets/d/1wA6_WsowgkyiLR1f6TThoGs416NLUsQ-qwxcYti3vaw/edit#gid=0)
+- [📇 general outline](https://docs.google.com/spreadsheets/d/1e8aYEAT9z_0v7KeJPcVQkbOgCSpuJrnUnd_0Gd4p53I/edit#gid=0)
+- [🧑‍🤝‍🧑 folkpower - people skills & interests](https://docs.google.com/spreadsheets/d/1wA6_WsowgkyiLR1f6TThoGs416NLUsQ-qwxcYti3vaw/edit#gid=0)
+- [📝 meeting notes](https://github.com/nnzine/meeting-notes)
+- [🎑 inspiration & useful resources](https://github.com/nnzine/inspos/blob/main/README.md)
+- [🚧 sandbox for WIP articles](https://github.com/nnzine/inspos/tree/main/content-exploration)

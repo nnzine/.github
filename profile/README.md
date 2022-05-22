@@ -17,3 +17,5 @@ see also the [gdrive folder](https://drive.google.com/drive/folders/1VUSCU2_xFye
 - [🎑 inspirations & useful resources](https://github.com/nnzine/inspos/blob/main/README.md)
 - [🚧 gh articles sandbox](https://github.com/nnzine/inspos/tree/main/content-exploration), [🚧 gdrive articles sandbox](https://drive.google.com/drive/u/0/folders/1iTIUPZy-laZieOmSkDmux-Mnja1RTS_A)
 - [🖼️ design sandbox](https://drive.google.com/drive/u/0/folders/1hHi5lUyHpYvbnn57_x-wcypPuKNrcYUL)
+
+we might also use [<img src="https://kinopio-email.s3.us-east-1.amazonaws.com/logo-base.png" width="15" height="15"> kinopio](https://kinopio.club/zine-visuals-inspo-D9fKE7O6Cb8Bdl0_qGEnw) as a moodboard.

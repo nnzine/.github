@@ -6,9 +6,6 @@ hi!
 
 this is the gh organization for the [norns zine](https://llllllll.co/t/introducing-norns-zine/55533) project.
 
-see also the [gdrive folder](https://drive.google.com/drive/folders/1VUSCU2_xFyerSOu2nUiAgVOsJH6s3q00?usp=sharing).
-
-
 - [<img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" width="15" height="15">
 `#zine` channel](https://discord.gg/RfpEKzjA9J) ([choosing a name](https://discord.com/channels/765746584582750248/971400057561690154))
 - [📝 meeting notes](https://github.com/nnzine/meeting-notes)

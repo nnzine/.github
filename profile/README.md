@@ -24,6 +24,5 @@ articles ready for review:
 - [@awwaiid's "not random" (code exploration)](https://github.com/nnzine/inspos/blob/main/content-exploration/not-random.md)
 - [@renegog's take on arcologies](https://docs.google.com/document/d/1MxdzW-M5qn2uozl6FenlIYrCXzjYaNmtSMMuPwTwjvk/edit)
 - [@alanza's math X music w/ aliasing 101](https://gist.github.com/ryleelyman/acd2b4e67b5028d2ef7ceb20c7e46d14)
-- [@tomw's type-along program](https://github.com/nnzine/inspos/blob/main/content-exploration/seigaiha-type-along.md)
-  [https://github.com/nnzine/inspos/blob/main/content-exploration/seigaiha-type-along.pdf](pdf version)
+- [@tomw's type-along program](https://github.com/nnzine/inspos/blob/main/content-exploration/seigaiha-type-along.md) ([pdf version](https://github.com/nnzine/inspos/blob/main/content-exploration/seigaiha-type-along.pdf))
 - [@zbs's typeèalong program](https://zbs.fm/code/mtx.lua) (link id dead...)

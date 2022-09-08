@@ -15,3 +15,12 @@ this is the gh organization for the [norns zine](https://llllllll.co/t/introduci
 - [<img src="https://kinopio-email.s3.us-east-1.amazonaws.com/logo-base.png" width="15" height="15"> kinopio moodboard](https://kinopio.club/zine-visuals-inspo-D9fKE7O6Cb8Bdl0_qGEnw) + [🖼️ design resources on gdrive](https://drive.google.com/drive/u/0/folders/1hHi5lUyHpYvbnn57_x-wcypPuKNrcYUL)
 
 for RW access to gdrive + kinopio, use [accesses](https://github.com/nnzine/accesses).
+
+
+---
+
+articles ready for review:
+
+- [@awwaiid's "not random" (code exploration)](https://github.com/nnzine/inspos/blob/main/content-exploration/not-random.md)
+- [@renegog's take on arcologies](https://docs.google.com/document/d/1MxdzW-M5qn2uozl6FenlIYrCXzjYaNmtSMMuPwTwjvk/edit)
+- [@alanza's math X music w/ aliasing 101](https://gist.github.com/ryleelyman/acd2b4e67b5028d2ef7ceb20c7e46d14)

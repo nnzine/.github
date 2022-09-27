@@ -27,4 +27,4 @@ articles ready for review:
 - [@helen_g's CCI vignette (fiction)](https://github.com/nnzine/inspos/blob/main/content-exploration/fiction-cci-vignette.txt)
 - [@infintedigits' manual intros to imaginary instruments](https://github.com/nnzine/inspos/blob/main/content-exploration/introductions.md)
 - [@tomw's type-along program](https://github.com/nnzine/inspos/blob/main/content-exploration/seigaiha-type-along.md) ([pdf version](https://github.com/nnzine/inspos/blob/main/content-exploration/seigaiha-type-along.pdf))
-- [@zbs's type-along program](https://zbs.fm/code/mtx.lua) (link id dead...)
+- [@zbs's type-along program](https://zbs.fm/code/mtx.lua) (link is dead...)

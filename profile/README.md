@@ -26,5 +26,6 @@ articles ready for review:
 - [@alanza's math X music w/ aliasing 101](https://gist.github.com/ryleelyman/acd2b4e67b5028d2ef7ceb20c7e46d14)
 - [@helen_g's CCI vignette (fiction)](https://github.com/nnzine/inspos/blob/main/content-exploration/fiction-cci-vignette.txt)
 - [@infintedigits' manual intros to imaginary instruments](https://github.com/nnzine/inspos/blob/main/content-exploration/introductions.md)
+- [@dewb's crossword](https://drive.google.com/drive/u/0/folders/1iTIUPZy-laZieOmSkDmux-Mnja1RTS_A)
 - [@tomw's type-along program](https://github.com/nnzine/inspos/blob/main/content-exploration/seigaiha-type-along.md) ([pdf version](https://github.com/nnzine/inspos/blob/main/content-exploration/seigaiha-type-along.pdf))
 - [@zbs's type-along program](https://zbs.fm/code/mtx.lua) (link is dead...)

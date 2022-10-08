@@ -30,4 +30,4 @@ articles ready for review:
 - [@WilliamHazard's crow corner article](https://docs.google.com/document/d/1zQz8oGnubnVoxBAdQKmL5srKAVAOp20nBo13R0-scuc/edit)
 - [@dewb's crossword](https://drive.google.com/drive/u/0/folders/1iTIUPZy-laZieOmSkDmux-Mnja1RTS_A)
 - [@tomw's type-along program](https://github.com/nnzine/inspos/blob/main/content-exploration/seigaiha-type-along.md) ([pdf version](https://github.com/nnzine/inspos/blob/main/content-exploration/seigaiha-type-along.pdf))
-- [@zbs's type-along program](https://zbs.fm/code/mtx.lua) (link is dead...)
+- [@zbs's type-along program](https://zbs.fm/code/mtx.lua)

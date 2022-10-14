@@ -22,6 +22,7 @@ for RW access to gdrive + kinopio, use [accesses](https://github.com/nnzine/acce
 articles ready for review:
 
 - [@watercolor's "On Using an Unconventional Machine for Conventional Purposes"](https://docs.google.com/document/d/1-cTYLU3lnXr6pMLnRL0Ufe5XIi2vy4AY/edit)
+- [@edrapley's "Norns Music Box"](https://docs.google.com/document/d/1SQH6m0jKg0VVs_NTENNZ1kQKHsy9E3GVK2BgEl-WP1o/edit)
 - [@awwaiid's "not random" (code exploration)](https://github.com/nnzine/inspos/blob/main/content-exploration/not-random.md)
 - [@renegog's take on arcologies](https://docs.google.com/document/d/1MxdzW-M5qn2uozl6FenlIYrCXzjYaNmtSMMuPwTwjvk/edit)
 - [@alanza's math X music w/ aliasing 101](https://gist.github.com/ryleelyman/acd2b4e67b5028d2ef7ceb20c7e46d14)
